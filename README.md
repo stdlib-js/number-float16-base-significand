@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import significand from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float16-base-significand@deno/mod.js';
+import significand from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float16-base-significand@v0.1.0-deno/mod.js';
 ```
 
 #### significand( x )
@@ -85,7 +85,7 @@ import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
 import pow from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-pow@deno/mod.js';
 import toFloat16 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-to-float16@deno/mod.js';
-import significand from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float16-base-significand@deno/mod.js';
+import significand from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float16-base-significand@v0.1.0-deno/mod.js';
 
 var frac;
 var exp;
