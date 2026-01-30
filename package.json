@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "@stdlib/constants-float16-significand-mask": "^0.1.0",
-    "@stdlib/number-float16-base-to-word": "github:stdlib-js/number-float16-base-to-word#main",
+    "@stdlib/number-float16-base-to-word": "^0.1.0",
     "@stdlib/number-float16-ctor": "^0.1.0",
     "@stdlib/number-float64-base-to-float16": "^0.1.0",
     "@stdlib/utils-library-manifest": "^0.2.3"
@@ -54,7 +54,7 @@
     "@stdlib/math-base-special-pow": "^0.3.0",
     "@stdlib/math-base-special-round": "^0.3.0",
     "@stdlib/number-float16-base-to-binary-string": "^0.1.0",
-    "@stdlib/number-float32-base-to-float16": "github:stdlib-js/number-float32-base-to-float16#main",
+    "@stdlib/number-float32-base-to-float16": "^0.1.0",
     "@stdlib/random-array-uniform": "^0.2.1",
     "@stdlib/random-base-randu": "^0.2.1",
     "@stdlib/string-format": "^0.2.2",
